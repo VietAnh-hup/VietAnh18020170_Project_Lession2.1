@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Viet Anh</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">My name Viet Anh
+    \n\n\n\n I love Dog
+    \n\n\n\n I am a Student
+    \n\n\n\n I am 21 year old
+    \n\n\n\n\n\n\n I live in Thanh Hoa
+    \n\n\n\n\n I learn to UET \n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname ?</string>
+    <string name="done">Done</string>
+</resources>
